@@ -27,6 +27,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Carlos Vinicios - Pascal
 * Rodrigo Porto - Groovy
 * Reinaldo Coutinho - Rust
+* Marina da Cruz Bento Bulhosa - Scratch
 
 ## Segundo Trabalho
 
