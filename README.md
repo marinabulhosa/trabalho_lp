@@ -64,6 +64,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 - Ayla Rodrigues, Sofia Kitaeva - 3 - https://github.com/AylaRodrigues/Trabalho-02-LP
 - Júlia Miranda Rodrigues - Exercício 2 - https://github.com/juliaDmiranda/SimulacaoHeap
 - Bruno Costa dos Passos - Exercicio 3 - https://github.com/brunocosta1/garbage_collector
+- Marina da Cruz Bento Bulhosa- Exercício 3 - https://github.com/marinabulhosa/Coletor-Autom-tico-de-Lixo
 
 ## Terceiro Trabalho
 
