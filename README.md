@@ -66,6 +66,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 - Ayla Rodrigues, Sofia Kitaeva - 3 - https://github.com/AylaRodrigues/Trabalho-02-LP
 - Júlia Miranda Rodrigues - Exercício 2 - https://github.com/juliaDmiranda/SimulacaoHeap
 - Bruno Costa dos Passos - Exercicio 3 - https://github.com/brunocosta1/garbage_collector
+- Marina da Cruz Bento Bulhosa - Exercício 3 - https://github.com/marinabulhosa/Coletor-Autom-tico-de-Lixo
 
 ## Terceiro Trabalho
 
@@ -86,6 +87,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Arthur de Oliveira S Marques - Trabalho 7 - https://github.com/marxsushii/Exercicio-7
 - Kamile Novaes - 3 - https://github.com/kamilenovaes/pooLP/tree/master/pooLP
 - Bruno Costa dos Passos - 7 - https://github.com/brunocosta1/Trabalho7_Java
+- Marina da Cruz Bento Bulhosa - Exercício 1 - https://github.com/marinabulhosa/Agenda-Telefonica
 
 ## Quarto Trabalho
 
